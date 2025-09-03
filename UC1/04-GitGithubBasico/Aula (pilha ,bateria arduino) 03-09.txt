@@ -1,0 +1,7 @@
+pilha te 1.5 v
+acima disso  bateria
+toda bateria e pilha tem ciclo de vida
+
+fonte o fio cor amarelo 12v
+vermelho 5v
+laranja 3.3v
