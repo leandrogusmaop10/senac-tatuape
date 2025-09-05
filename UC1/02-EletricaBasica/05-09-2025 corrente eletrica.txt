@@ -1,0 +1,29 @@
+tensão eletrica e corrente elétrica.
+prico de tensão e queda de tensão.(oico de tensão queima na hora, queda não)
+
+tomada recebe o nome de AC = CA ( corrente alternada)
+127/220 v
+
+exemplo no carredor vem escrito entrada ou input
+se eu colocar um carregador 217 v (bivolt) numa tomada 127va 240v ele vai funcionar
+Saida/output
+
+DC-CC Corente continua)
+para nós que estamos estudando Informatica esses valores são importante - 3,3v/ 5v / 12v ( liga placa mae,provessador)
+
+
+5 Hz para Hz = 5 bi por segundo
+
+Não morremos pela voltagem e sim pela tensão
+
+é o filtro de linha que protege no pico de energia
+
+1° lei Ohm.
+Triangulo
+U v = é a primeira letra do calculo matematico de tensão
+R com o simbolo omega = resistor. componente mais importante que temos
+I com a = Corrente. calculo matematico
+
+V= volts
+A= Ampers
+Omega = Ohms
